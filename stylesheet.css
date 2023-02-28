@@ -63,9 +63,7 @@ color:#bcf8db
 
   section {
     background-color: #96dada;
-    display: flex;
     justify-content: center;
-    align-items: flex-start;
     padding-top: 12%;
     margin: auto;
     padding-right: 12% ;
