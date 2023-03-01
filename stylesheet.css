@@ -4,7 +4,6 @@ body {
 
   header {
     background-color: #1b8383;
-    color: white;
     text-align: center;
     padding: 20px;
     font-size: 110%;
@@ -14,6 +13,10 @@ body {
 color:#bcf8db
   }
   
+  .intro{
+    background-color: #96dada;
+  }
+
 .text-center {
   text-align: center;
 }
